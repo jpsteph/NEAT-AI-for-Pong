@@ -1,0 +1,4 @@
+Required Libraries
+pip install neat-python 
+pip install graphviz (just for winner.py and visualizenets.py)
+(Must also install the executable fle for graphviz to work correctly)
